@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gaminghackk/static/css/main.181dc813.chunk.css",
+    "main.js": "/gaminghackk/static/js/main.ec6fbb81.chunk.js",
+    "main.js.map": "/gaminghackk/static/js/main.ec6fbb81.chunk.js.map",
+    "runtime~main.js": "/gaminghackk/static/js/runtime~main.3859a2d3.js",
+    "runtime~main.js.map": "/gaminghackk/static/js/runtime~main.3859a2d3.js.map",
+    "static/js/2.15f164f9.chunk.js": "/gaminghackk/static/js/2.15f164f9.chunk.js",
+    "static/js/2.15f164f9.chunk.js.map": "/gaminghackk/static/js/2.15f164f9.chunk.js.map",
+    "index.html": "/gaminghackk/index.html",
+    "precache-manifest.ec0548340689bfc8e72fecdea77e00d3.js": "/gaminghackk/precache-manifest.ec0548340689bfc8e72fecdea77e00d3.js",
+    "service-worker.js": "/gaminghackk/service-worker.js",
+    "static/css/main.181dc813.chunk.css.map": "/gaminghackk/static/css/main.181dc813.chunk.css.map",
+    "static/media/coin.svg": "/gaminghackk/static/media/coin.651b35e3.svg",
+    "static/media/App.css": "/gaminghackk/static/media/money-2180330_1920.49ce4af7.jpg"
+  }
+}
